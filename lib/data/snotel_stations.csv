@@ -1,0 +1,78 @@
+station_id,start_date,lat,lon,elev,state,county,subwatershed,site_name,cdbs_id,shef_id,gmt_offset
+1267,2014-08-28,61.75,-150.89,160,AK,Matanuska-susitna,Headwaters Alexander Creek,Alexander Lake,50M01S,ALXA2,9.0
+1189,2011-08-04,64.79,-141.23,1050,AK,Southeast Fairbanks,American Creek,American Creek,41P07S,AMCA2,9.0
+1062,1980-10-01,59.86,-151.32,1653,AK,Kenai Peninsula,Headwaters Anchor River,Anchor River Divide,51K05S,ARDA2,9.0
+1070,2004-10-01,61.11,-149.67,2080,AK,Anchorage,South Fork Campbell Creek,Anchorage Hillside,49M22S,HILA2,9.0
+2065,2002-07-23,61.58,-159.58,80,AK,Bethel,Aniak Slough-Kuskokwim River,Aniak,SC2065,AMBA2,9.0
+957,1981-10-01,68.13,-149.48,4800,AK,North Slope,Chandalar Shelf,Atigun Pass,49T03S,ATGA2,9.0
+1182,1980-10-01,66.92,-151.53,640,AK,Yukon-koyukuk,Jack White Creek-Koyukuk River,Bettles Field,51R01S,BFLA2,9.0
+1260,2020-09-28,64.76,-147.22,500,AK,Fairbanks North Star,190803060901,Chena Lakes,47P06,CLNA2,9.0
+1093,2007-10-01,62.07,-142.05,3320,AK,Valdez-cordova,Red Hill Creek-Chisana River,Chisana,42N01S,CHXA2,9.0
+958,1994-10-01,67.25,-150.18,1040,AK,Yukon-koyukuk,Slate Creek,Coldfoot,50S01S,COFA2,9.0
+959,1981-10-01,60.39,-149.69,1200,AK,Kenai Peninsula,Kenai Lake,Cooper Lake,49L10S,CORA2,9.0
+1302,2021-08-13,64.87,-147.74,440,AK,Fairbanks North Star,Chena River,Creamers Field,47P07S,SCFA2,9.0
+1303,2022-08-22,66.95,-156.9,260,AK,Northwest Arctic,Dahl Creek,Dahl Creek,,DHLA2,9.0
+960,1998-07-10,65.49,-145.41,3650,AK,Yukon-koyukuk,Porcupine Creek,Eagle Summit,45Q05S,EAGA2,9.0
+953,2019-12-17,61.6,-149.1,230,AK,Matanuska-susitna,Outlet Matanuska River,East Palmer,,,9.0
+1071,2005-10-01,60.8,-148.09,50,AK,Valdez-cordova,Esther Lake-Frontal Prince William Sound,Esther Island,48L06S,ESIA2,9.0
+1092,2011-07-08,60.19,-149.62,400,AK,Kenai Peninsula,Oulet Resurrection River,Exit Glacier,49L18S,EXGA2,9.0
+1174,1981-10-01,64.85,-147.8,450,AK,Fairbanks North Star,Chena River,Fairbanks F.O.,47P03S,FOFA2,9.0
+1268,2014-08-07,63.2,-145.63,3000,AK,Valdez-cordova,Fielding Lake,Fielding Lake,45O01S,FLDA2,9.0
+1285,2017-08-15,59.4,-136.28,2510,AK,Haines,Porcupine Creek,Flower Mountain,36K01S,FLOA2,9.0
+961,1993-10-01,66.57,-145.25,430,AK,Yukon-koyukuk,Seventeen Mile Slough-Yukon River,Fort Yukon,45R01S,FYNA2,9.0
+641,2019-10-01,61.75,-149.27,2700,AK,Matanuska-susitna,Fishhook Creek-Little Susitna River,Frostbite Bottom,,FBBA2,9.0
+429,2018-08-16,64.7,-156.71,410,AK,Yukon-koyukuk,Louden Slough-Yukon River,Galena AK,,GANA2,9.0
+962,1996-10-01,66.75,-150.67,2030,AK,Yukon-koyukuk,Outlet Prospect Creek,Gobblers Knob,50R04S,GOBA2,9.0
+956,1983-10-01,60.61,-149.06,1100,AK,Kenai Peninsula,Headwaters Trail Creek,Grandview,49L09S,GRVA2,9.0
+963,1987-10-01,63.94,-145.4,1240,AK,Southeast Fairbanks,Granite Creek,Granite Crk,45O04S,GCKA2,9.0
+964,1988-10-01,60.26,-149.34,700,AK,Kenai Peninsula,South Fork Snow River,Grouse Creek Divide,49L14S,GCRA2,9.0
+2222,2018-10-01,62.41,-145.38,1830,AK,Valdez-cordova,Boulder Lake-Gulkana River,Gulkana River,,GSNA2,9.0
+1270,2015-08-06,58.7,-134.86,2065,AK,Juneau,Davies Creek,Heen Latinee,34J07S,DCSA2,9.0
+2210,2014-08-04,65.2,-156.63,206,AK,Yukon-koyukuk,Hozatka Lake,Hozatka Lake,56Q02S,HZLA2,9.0
+968,1980-10-01,68.62,-149.3,3050,AK,North Slope,Headwaters Toolik River,Imnaviat Creek,49T01S,TOOA2,9.0
+1091,1997-10-31,61.79,-149.28,3550,AK,Matanuska-susitna,Fishhook Creek-Little Susitna River,Independence Mine,49M26S,HATA2,9.0
+946,1978-10-01,61.07,-149.48,2350,AK,Anchorage,Headwaters Ship Creek,Indian Pass,49M08S,INPA2,9.0
+1275,2015-10-01,64.15,-141.33,3585,AK,Southeast Fairbanks,Kal Creek,Jack Wade Jct,41PP8S,JWJA2,9.0
+1036,2001-10-01,64.56,-164.29,25,AK,Nome,Pine Creek,Johnsons Camp,64P01S,JCPA2,9.0
+1063,2004-08-04,59.73,-150.66,1660,AK,Kenai Peninsula,Bradley Lake,Kachemak Creek,50K07S,KCKA2,9.0
+1072,2005-10-01,63.54,-150.99,1550,AK,Denali,Moose Creek,Kantishna,50O01S,KTSA2,9.0
+1175,1991-10-01,67.93,-162.28,310,AK,Northwest Arctic,190504030802-Noatak River,Kelly Station,62S01S,KLLA2,9.0
+966,1983-10-01,60.73,-150.48,300,AK,Kenai Peninsula,Upper Moose River,Kenai Moose Pens,50L02S,KMPA2,9.0
+947,1980-10-01,65.12,-146.73,2000,AK,Fairbanks North Star,190803060706-Little Chena River,Little Chena Ridge,46Q02S,LCHA2,9.0
+1001,1998-10-01,58.19,-133.83,850,AK,Juneau,190102060505-Dawes Glacier,Long Lake,33J01S,LLKA2,9.0
+1265,2015-06-19,59.74,-150.69,1915,AK,Kenai Peninsula,Bradley Lake,Lower Kachemak Creek,55K08S,LKCA2,9.0
+1096,2006-10-01,61.35,-142.71,1610,AK,Valdez-cordova,Lower Young Creek,May Creek,42M01S,SNCA2,9.0
+785,2019-09-10,62.95,-155.61,340,AK,Yukon-koyukuk,Town of McGrath-Kuskokwim River,McGrath,55N01S,MCSA2,9.0
+1003,1985-10-01,59.74,-151.25,1320,AK,Kenai Peninsula,Swift Creek-Frontal Kachemak Bay,Mcneil Canyon,51K14S,MCNA2,9.0
+1191,2012-06-27,59.08,-154.28,140,AK,Kenai Peninsula,Mikfik Creek-Frontal Kamishak Bay,Mcneil River SGS,54K01S,MLRA2,9.0
+1064,1990-10-01,59.78,-150.76,2300,AK,Kenai Peninsula,Bradley River,Middle Fork Bradley,50K05S,MFBA2,9.0
+1094,1983-10-01,63.31,-147.65,2710,AK,Matanuska-susitna,West Fork Susitna River,Monahan Flat,47O01S,MNFA2,9.0
+949,1979-10-01,65.08,-145.87,1850,AK,Fairbanks North Star,Monument Creek,Monument Creek,45Q02S,MNCA2,9.0
+1176,1989-10-01,59.59,-135.21,2250,AK,Skagway,West Creek,Moore Creek Bridge,35K02S,MREA2,9.0
+1035,2001-10-01,61.38,-149.0,2100,AK,Anchorage,Eklutna Lake,Moraine,48M04S,MORA2,9.0
+1103,1971-10-01,60.96,-149.09,1540,AK,Anchorage,Glacier Creek,Mt. Alyeska,49L01S,TEM21,9.0
+1073,2004-10-01,60.55,-145.75,1405,AK,Valdez-cordova,Orca Inlet-Frontal Prince William Sound,Mt. Eyak,45L01S,EYKA2,9.0
+948,1980-10-01,65.25,-146.15,2800,AK,Fairbanks North Star,Headwaters West Fork Chena River,Mt. Ryan,46Q01S,MTRA2,9.0
+950,1979-10-01,64.85,-146.21,3100,AK,Fairbanks North Star,Rock Creek-Chena River,Munson Ridge,46P01S,MSOA2,9.0
+2081,2003-10-01,64.69,-148.91,415,AK,Yukon-koyukuk,Little Goldstream Creek,Nenana,SC2081,NESA2,9.0
+1037,1990-10-01,59.7,-150.71,1250,AK,Kenai Peninsula,Bradley Lake,Nuka Glacier,50K06S,NUKA2,9.0
+1315,1997-10-01,61.79,-149.28,3550,AK,Matanuska-susitna,,Old Independence Mine,,,9.0
+1301,2021-07-27,62.83,-141.41,2010,AK,Southeast Fairbanks,190803010807-Black Hills,Paradise Hill,41N02S,SPHA2,9.0
+986,2000-10-01,64.99,-163.1,100,AK,Nome,Slate Creek-Fish River,Pargon Creek,63P02S,PCRA2,9.0
+1002,1983-10-01,61.39,-150.03,250,AK,Matanuska-susitna,Stephan Lake-Goose Creek,Point Mackenzie,50M03S,PTMA2,9.0
+987,1999-10-01,59.35,-151.85,300,AK,Kenai Peninsula,Port Graham-Frontal Cook Inlet,Port Graham,51K15S,PGRA2,9.0
+1177,2003-10-01,70.27,-148.57,30,AK,North Slope,190604010102,Prudhoe Bay,48V01S,PRBA2,9.0
+973,2000-10-25,64.53,-163.42,250,AK,Nome,Golovnin Lagoon-Frontal Golovnin Bay,Rocky Point,63P01S,RPTA2,9.0
+1183,1982-10-01,69.42,-148.69,1000,AK,North Slope,190604010905,Sagwon,48U01S,SGWA2,9.0
+2044,2018-06-25,61.66,-149.13,580,AK,Matanuska-susitna,Outlet Matanuska River,Spring Creek,,SCPA2,9.0
+1095,2007-06-28,61.08,-146.3,550,AK,Valdez-cordova,Solomon Gulch,Sugarloaf Mtn,46M04S,SUGA2,9.0
+955,1988-10-01,60.62,-149.53,1400,AK,Kenai Peninsula,Headwaters Canyon Creek,Summit Creek,49L19S,SUUA2,9.0
+967,1986-10-01,62.13,-150.04,375,AK,Matanuska-susitna,Little Montana Creek-Montana Creek,Susitna Valley High,50N07S,SUVA2,9.0
+1266,2014-07-09,60.98,-153.92,1275,AK,Bethel,Upper Telaquana River,Telaquana Lake,53L01S,TQUA2,9.0
+951,1980-10-01,64.95,-145.52,1640,AK,Fairbanks North Star,Teuchet Creek,Teuchet Creek,45P03S,TEUA2,9.0
+2080,2004-02-13,63.35,-142.98,1630,AK,Southeast Fairbanks,Tanacross,Tok,SC2080,TOSA2,9.0
+1089,2005-10-01,62.63,-150.78,850,AK,Matanuska-susitna,Upper Tokositna River,Tokositna Valley,50N05S,TKVA2,9.0
+954,1981-10-01,60.78,-149.18,1880,AK,Kenai Peninsula,Granite Creek,Turnagain Pass,49L13S,TUGA2,9.0
+952,1983-10-01,65.1,-144.93,2850,AK,Fairbanks North Star,Headwaters Middle Fork Chena River,Upper Chena,44Q07S,UCEA2,9.0
+1090,2006-10-01,65.37,-146.59,2520,AK,Yukon-koyukuk,Sumner Creek-Nome Creek,Upper Nome Creek,46Q07S,UNCA2,9.0
+1055,2002-10-01,61.19,-145.65,1750,AK,Valdez-cordova,Middle Tsina River,Upper Tsaina River,45M07S,UPPA2,9.0

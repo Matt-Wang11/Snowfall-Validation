@@ -1,0 +1,22 @@
+{
+    "path-to-sntl-hourly" : "sntl_hourly.pickle",
+    "satellite-directories" :  {
+        "npp" : "/sloth/jundong/work/data/sfr_npp_v1p0", 
+        "moc" : "/sloth/jundong/work/data/sfr_moc_v1p0",   
+        "mob" : "/sloth/jundong/work/data/sfr_mob_v1p0", 
+        "n20" : "/sloth/jundong/work/data/sfr_n20_v1p0", 
+        "n19" : "/sloth/jundong/work/data/sfr_n19_v1p0"
+    },
+    "sat-to-run" : ["npp", "moc", "mob", "n20", "n19"],
+    "date-to-run" : ["2022-01-17", "2022-01-27"],
+    "folder-output-path" : "/sloth/jundong/ywang176/snow-fall-validation/collocation_v3/out",
+    "folder-output-name" : "collocation_v3-20220110-0126",
+    "folder-csv-output" : false,
+    "pickle-output-file-name" : "collocation_v3.pickle",
+    "sntl-target-data" : "precip_accum_set_1",
+    "sntl-temp-data" : "air_temp_set_1",
+    "calculate_stats" : false,
+    "BOX-LEN-KM" : 50,
+    "TIME-DELAY-RANGE" : [0, 120],
+    "TARGET-CENTER" : [-150, 65]
+}
